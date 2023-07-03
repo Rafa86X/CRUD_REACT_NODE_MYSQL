@@ -1,8 +1,8 @@
 # CRUD_React_Node_MySql
 
-## Status: Concluído
+<h2> Status: Concluído </h2>
 
-### Funcionamento:
+<h2>Funcionamento</h2>
 <p>1 - A api implementa CRUD completo para uma tabela em um banco de dados MySQL;</p>
 <p>2 - Os endpoints de interação são: </p>
               <p> GET http://localhost:8800</p>
@@ -20,12 +20,12 @@
 alter user 'root'@'localhost' identified with mysql_native_password by 'SUA SENHA DO USUARIO ROOT';
 </p>
 <br>
-<h3> Instalando as dependencias</h3>
+<h3> Instalando as dependências</h3>
 <br>
 <p>1 - Utilizando um terminal de comandos entre na pasta api e execute: npm install;</p>
 <p>2 - Utilizando um terminal de comandos entre na pasta frontend e execute: npm install;</p>
 <br>
-<h3> Levantando os servidores da aplicaçao</h3>
+<h3> Levantando os servidores da aplicaçâo</h3>
 <br>
 <p>1 - Utilizando um terminal de comandos entre na pasta api e execute: yarn start;</p>
 <p>2 - Utilizando um terminal de comandos entre na pasta frontend e execute: npm start;</p>
