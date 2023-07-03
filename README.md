@@ -3,7 +3,8 @@
 <h2> Status: Concluído </h2>
 
 <h2>Funcionamento</h2>
-<p>1 - A api implementa CRUD completo para uma tabela em um banco de dados MySQL;</p>
+<p>1 - O projeto implementa CRUD completo FUll Stack para uma tabela em um banco de dados MySQL;</p>
+<p>2 - O projeto possui um front em react, e um backand em node.js</p>
 <p>2 - Os endpoints de interação são: </p>
               <p> GET http://localhost:8800</p>
               <p> POST http://localhost:8080 body => {Dados em json}</p>
