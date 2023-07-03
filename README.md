@@ -11,7 +11,7 @@
               <p> DELETE http://localhost:8080/{id}</p>
                
 
-### Para executá-lo você precisará:
+<h3>Carregando Banco de Dados MySQL:</h3>
 <p>1 - Carregar o banco de dados MySql q esta na raiz deste projeto;</p>
 <p>2 - Digitar o seguinte comando no workbench do MySql:<br>
 alter user 'root'@'localhost' identified with mysql_native_password by 'SUA SENHA DO USUARIO ROOT';
