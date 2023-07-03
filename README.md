@@ -13,8 +13,19 @@
 
 ### Para executá-lo você precisará:
 <p>1 - Carregar o banco de dados MySql q esta na raiz deste projeto;</p>
-<p>2 - Digitar o seguinte comando no workbench do MySql:<br><br>
+<p>2 - Digitar o seguinte comando no workbench do MySql:<br>
 alter user 'root'@'localhost' identified with mysql_native_password by 'SUA SENHA DO USUARIO ROOT';
 </p>
+<br>
+<h3> Instalando as dependencias</h3>
+<br>
+<p>1 - Utilizando um terminal de comandos entre na pasta api e execute: npm install;</p>
+<p>2 - Utilizando um terminal de comandos entre na pasta frontend e execute: npm install;</p>
+<br>
+<h3> Levantando os servidores da aplicaçao</h3>
+<br>
+<p>1 - Utilizando um terminal de comandos entre na pasta api e execute: yarn start;</p>
+<p>2 - Utilizando um terminal de comandos entre na pasta frontend e execute: npm start;</p>
 
-<p>3 - O banco de dados utilizado é o MySql, o backup do bando esta na raiz desete projeto, procure o arquivo .sql e restaure o banco;</p>
+
+
