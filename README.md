@@ -13,6 +13,6 @@
 
 ### Para executá-lo você precisará:
 <p>1 - Carregar o banco de dados MySql q esta na raiz deste projeto;</p>
-<p>2 - Digitar o seguinte comando no workbench do MySql:
-  ### alter user alter user 'root'@'localhost' identified with mysql_native_password by 'SUA SENHA DO USUARIO ROOT'; </p>
+<p>2 - Digitar o seguinte comando no workbench do MySql:</p>
+  ### alter user alter user 'root'@'localhost' identified with mysql_native_password by 'SUA SENHA DO USUARIO ROOT'; 
 <p>3 - O banco de dados utilizado é o MySql, o backup do bando esta na raiz desete projeto, procure o arquivo .sql e restaure o banco;</p>
